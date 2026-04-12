@@ -150,5 +150,9 @@ End
 
 
 Citations (if applicable) – If this dataset was used in research, provide references -  
-Data Availability Statement: We use open data from Kaggle NSL-KDD dataset. The link is https://www.kaggle.com/datasets/hassan06/nslkdd, UNSW-NB15 dataset, Link: https://www.kaggle.com/datasets/freshersstaff/unsw-nb15-dataset, TON_IoT Dataset,:Link: https://www.kaggle.com/datasets/shahidabbas76/train-test-network-csv , and CIC-IDS2018 dataset, Link:  https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv.
+Data Availability Statement: We use open data from Kaggle 
+- NSL-KDD dataset, The link is https://www.kaggle.com/datasets/hassan06/nslkdd. 
+- UNSW-NB15 dataset, Link: https://www.kaggle.com/datasets/freshersstaff/unsw-nb15-dataset, 
+- TON_IoT Dataset, Link: https://www.kaggle.com/datasets/shahidabbas76/train-test-network-csv , 
+- CIC-IDS2018 dataset, Link:  https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv.
 
